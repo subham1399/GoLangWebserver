@@ -47,9 +47,9 @@ This is a basic web server built using Go's standard `net/http` package. It demo
 
 ## Snapshots
 
-_Attach screenshots of the working application here for better visualization._
+_Attaching screenshots of the working application here for better visualization._
 
-## Creating a user
+## Creating an user
 ![image](https://github.com/user-attachments/assets/bbbef2ad-d0dd-4aab-8095-7116b6a589a0)
 
 ## Retrieving an existing user
